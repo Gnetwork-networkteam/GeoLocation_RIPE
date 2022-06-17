@@ -10,7 +10,7 @@
 # When updating this file you must add a REM with the data shown including date and time and get it reviewed by Network.Support@G.Network
 
 # ******* Update List ********
-# Updated by A.Graham 2022-Jun-17, 09:06.  Added 7 Prefixes, 45.80.244.0/22 to 45.92.120.0/22 and updated the regional code for UK, London.
+# Updated by A.Graham 2022-Jun-17, 21:14.  Added 7 Prefixes, 45.80.244.0/22 to 45.92.120.0/22 and updated the regional code for UK, London.
 
 185.106.72.0/22,GB,GB-LND,London,W1B2AF
 185.111.72.0/22,GB,GB-LND,London,W1B2AF
