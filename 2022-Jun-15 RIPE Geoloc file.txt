@@ -1,0 +1,50 @@
+#G.Network Public Range Geo-feed
+
+# prefix,country_code,region_code,city,postal
+# 104.132.107.0/24,US,US-NJ,Princeton,08540
+# 193.0.24.0/21,NL,NL-ZH,Rotterdam,
+# 199.91.192.0/21,MA,MA-07,Marrakech,
+# 2001:67c:1230::/46,SG,SG-01,Singapore,
+# 46.137.79.134/32,,,,
+
+# When updating this file you must add a REM with the data shown including date and time and get it reviewed by Network.Support@G.Network
+
+# ******* Update List ********
+# Updated by A.Graham 2022-Jun-01, 16:24.  Added 7 Prefixes at the EoF.
+
+185.106.72.0/22,GB,,London,W1B2AF
+185.111.72.0/22,GB,,London,W1B2AF
+185.14.88.0/22,GB,,London,W1B2AF
+185.159.76.0/22,GB,,London,W1B2AF
+185.222.80.0/22,GB,,London,W1B2AF
+185.225.44.0/22,GB,,London,W1B2AF
+185.247.172.0/22,GB,,London,W1B2AF
+185.236.184.0/22,GB,,London,W1B2AF
+185.248.104.0/22,GB,,London,W1B2AF
+185.250.188.0/22,GB,,London,W1B2AF
+185.240.108.0/22,GB,,London,W1B2AF
+185.239.32.0/22,GB,,London,W1B2AF
+185.254.136.0/22,GB,,London,W1B2AF
+185.226.36.0/22,GB,,London,W1B2AF
+160.19.180.0/22,GB,,London,W1B2AF
+193.29.28.0/22,GB,,London,W1B2AF
+193.39.240.0/22,GB,,London,W1B2AF
+176.97.152.0/22,GB,,London,W1B2AF
+45.152.232.0/22,GB,,London,W1B2AF
+45.95.156.0/22,GB,,London,W1B2AF
+45.145.48.0/22,GB,,London,W1B2AF
+45.139.12.0/22,GB,,London,W1B2AF
+45.134.228.0/22,GB,,London,W1B2AF
+194.6.251.0/24,GB,,London,W1B2AF
+194.6.252.0/24,GB,,London,W1B2AF
+194.6.254.0/24,GB,,London,W1B2AF
+95.141.16.0/20,GB,,London,W1B2AF
+185.176.160.0/22,GB,,London,W1B2AF
+185.176.160.0/22,GB,,London,W1B2AF
+45.80.244.0/22,GB,,London,W1B2AF
+45.133.120.0/21,GB,,London,W1B2AF
+45.12.240.0/22,GB,,London,W1B2AF
+45.141.132.0/22,GB,,London,W1B2AF
+45.149.188.0/22,GB,,London,W1B2AF
+45.133.128.0/22,GB,,London,W1B2AF
+45.92.120.0/22,GB,,London,W1B2AF
