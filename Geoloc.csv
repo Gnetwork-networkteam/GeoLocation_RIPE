@@ -13,7 +13,7 @@
 # Updated by A.Graham 2022-Jun-20, 11:42.  Added 7 Prefixes, 45.80.244.0/22 to 45.92.120.0/22 and updated the regional code for UK, London.
 # Updated by A.Graham 2022-Jun-28, 15:42.  Removed line 43 due to it being a duplication: 185.176.160.0/22,GB,GB-LND,London,W1B2AF.
 # Updated by A.Graham 2022-Aug-08, 10:30.  Added 1 Prefix, 80.249.16.0/20.
-# Updated by A.Graham 2022-Nov-11, 09:30.  Added 10 Prefixes.
+# Updated by A.Graham 2022-Nov-11, 10:13.  Added 11 Prefixes.
 
 185.106.72.0/22,GB,GB-LND,London,W1B2AF
 185.111.72.0/22,GB,GB-LND,London,W1B2AF
@@ -51,6 +51,7 @@
 45.133.128.0/22,GB,GB-LND,London,W1B2AF
 45.92.120.0/22,GB,GB-LND,London,W1B2AF
 80.249.16.0/20,GB,GB-LND,London,W1B2AF
+45.159.64.0/23,GB,GB-LND,London,W1B2AF
 62.197.32.0/21,GB,GB-LND,London,W1B2AF
 62.197.42.0/23,GB,GB-LND,London,W1B2AF
 62.197.46.0/23,GB,GB-LND,London,W1B2AF
