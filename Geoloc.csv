@@ -15,6 +15,7 @@
 # Updated by A.Graham 2022-Aug-08, 10:30.  Added 1 Prefix, 80.249.16.0/20.
 # Updated by A.Graham 2022-Nov-14, 09:54.  Added 12 Prefixes.
 # Updated by T.Nicholson 2022-Nov-24 xx:xx.  Added 1 Prefix, 193.46.20.0/22.
+# Updated by A.Graham 2023-Feb-02, 08:28.  Added 1 Prefix, 195.26.112.0/20.
 
 185.106.72.0/22,GB,GB-LND,London,W1B2AF
 185.111.72.0/22,GB,GB-LND,London,W1B2AF
@@ -65,3 +66,4 @@
 185.96.220.0/22,GB,GB-LND,London,W1B2AF
 185.179.12.0/22,GB,GB-LND,London,W1B2AF
 193.46.20.0/22,GB,GB-LND,London,W1B2AF
+195.26.112.0/20,GB,GB-LND,London,W1B2AF
